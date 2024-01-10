@@ -26,13 +26,23 @@ https://www.udemy.com/share/101XOy3@HVYo_c5opZeomyhKrhccMuVUZ-7RjUuQQd_cvvtzZVQf
 
 </br>
 
-#### 4- Learning DAX Language 📝📊
+#### 4- Learning Data Modeling 📝📊
 
+- ##### 📹🖥️ By: Garage Education 👨‍🏫, on Youtube, 15 Videos, Good for Beginners, Arabic Speaker 🔊 </br>
+https://youtube.com/playlist?list=PLxNoJq6k39G_Ffv8Na1oRbob0sVHfFc_T&si=XQjjneY2G0OoMp3Q
+
+</br>
+
+#### 5- Learning DAX Language 📝📊
 - ##### 📹🖥️ By: Ayaz Taher 👨‍🏫, on Youtube, 14 Videos, Good for Beginners, Arabic Speaker 🔊 </br>
 https://youtube.com/playlist?list=PLWhZIEvfbbd-1hmtkMRRzGZpnm1wV7IVe&si=je5z6lppU_VkcOiD
 
 - ##### 📹🖥️ By: Enterprise DNA 👨‍🏫, on Udemy, 11 Hours, Good for Beginners, Intermediate and Expert, English Speaker 🔊 </br>
 https://www.udemy.com/share/104WTW3@DZ0SKcDAvCNUO5Lh3VnT1-_FJ-z5CzNg1KRDQYt7eKGq8PD4QzLwEbAJgIOPgW_2dA==/
+
+
+
+
 
 </br>
 
